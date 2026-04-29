@@ -1,0 +1,38 @@
+{
+  "id": "swade-automata",
+  "title": "SWADE Automata",
+  "description": "Automation for combat.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Invictus"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "swade",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "esmodules": ["init.js"],
+  "styles": ["swade-automata.css"],
+  "socket": true,
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

@@ -1,0 +1,44 @@
+{
+  "id": "swade-mass-battles",
+  "title": "SWADE Battles",
+  "version": "0.1.0",
+  "socket": true,
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Your Name"
+    }
+  ],
+  "description": "A module for SWADE combat and battles",
+  "relationships": {
+    "systems": [
+      {
+        "id": "swade",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "esmodules": [
+    "init.js"
+  ],
+  "styles": [
+    "css/swade-mass-battles.css"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": ""
+}
