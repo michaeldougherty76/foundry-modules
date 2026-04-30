@@ -32,7 +32,7 @@
       "path": "lang/en.json"
     }
   ],
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/michaeldougherty76/swade-automata",
+  "manifest": "https://raw.githubusercontent.com/michaeldougherty76/foundry-modules/main/swade-automata/module.json",
+  "download": "https://raw.githubusercontent.com/michaeldougherty76/foundry-modules/main/swade-automata/swade-automata.zip"
 }
