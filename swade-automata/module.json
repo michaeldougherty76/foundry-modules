@@ -22,8 +22,12 @@
       }
     ]
   },
-  "esmodules": ["init.js"],
-  "styles": ["swade-automata.css"],
+  "esmodules": [
+    "init.js"
+  ],
+  "styles": [
+    "swade-automata.css"
+  ],
   "socket": true,
   "languages": [
     {
