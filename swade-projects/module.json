@@ -1,0 +1,41 @@
+{
+  "id": "swade-projects",
+  "title": "SWADE Projects",
+  "description": "Track GM-created projects for players and enemies independently of actors. Manage successes, categories, and associated skills.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Community"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "swade",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "esmodules": [
+    "init.js"
+  ],
+  "styles": [
+    "css/swade-projects.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "https://github.com/michaeldougherty76/swade-projects",
+  "manifest": "https://raw.githubusercontent.com/michaeldougherty76/foundry-modules/main/swade-projects/module.json",
+  "download": "https://raw.githubusercontent.com/michaeldougherty76/foundry-modules/main/swade-projects/swade-projects.zip"
+}
