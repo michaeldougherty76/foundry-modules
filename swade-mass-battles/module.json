@@ -35,9 +35,9 @@
   "styles": [
     "css/swade-mass-battles.css"
   ],
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/michaeldougherty76/swade-mass-battles",
+  "manifest": "https://raw.githubusercontent.com/michaeldougherty76/foundry-modules/main/swade-mass-battles/module.json",
+  "download": "https://raw.githubusercontent.com/michaeldougherty76/foundry-modules/main/swade-mass-battles/swade-mass-battles.zip",
   "license": "",
   "readme": "",
   "bugs": ""
